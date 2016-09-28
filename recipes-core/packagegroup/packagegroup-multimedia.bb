@@ -20,9 +20,6 @@ RDEPENDS_${PN} = "\
   sox \
   flac \
   mjpg-streamer \
-  pocketsphinx \
-  pocketsphinx-tools \
-  sphinxtrain \
  "
 
 RRECOMMENDS_${PN} = "\
