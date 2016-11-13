@@ -6,6 +6,9 @@ IMAGE_INSTALL += "\
 		python-pip \
 		python-numpy \
 		python-pyqt \
+		packagegroup-core-buildessential\
+		ldd\
+		file\
 "
 # trik-ros roslaunch"
 
